@@ -1,0 +1,197 @@
+child_name,status,parent_name,author1init,author1last,author2init,author2last,otherauthors,pubyr
+Chelifer,"belongs to",Insecta,"E. L.",Geoffroy,,,,1762
+Chelifer,"belongs to",Aptera,"J. C.",Schaeffer,,,,1766
+Chelifer,"belongs to",Scorpionides,"P. A.",Latreille,,,,1802
+"Chelifer eucarpus","belongs to",Chelifer,"J. W.",Dalman,,,,1826
+Chelifer,"belongs to",Pseudoscorpiones,"C. L.",Koch,"G. C.",Berendt,,1854
+"Chelifer hemprichii","belongs to",Chelifer,"C. L.",Koch,"G. C.",Berendt,,1854
+"Chelifer ehrenbergii","belongs to",Chelifer,"C. L.",Koch,"G. C.",Berendt,,1854
+"Chelifer kleemanni","belongs to",Chelifer,"C. L.",Koch,"G. C.",Berendt,,1854
+Obisium,"belongs to",Pseudoscorpiones,"C. L.",Koch,"G. C.",Berendt,,1854
+"Obisium rathkii","belongs to",Obisium,"C. L.",Koch,"G. C.",Berendt,,1854
+"Chelifer wigandi","belongs to",Chelifer,A.,Menge,,,,1854
+"Chelifer hartmanni","belongs to",Chelifer,A.,Menge,,,,1854
+"Dichela berendtii","belongs to",Dichela,A.,Menge,,,,1854
+"Obisium sieboldtii","belongs to",Obisium,A.,Menge,,,,1854
+"Chelignathus kochii","belongs to",Chelignathus,A.,Menge,,,,1854
+"Chelifer nidificator","belongs to",Chelifer,,Balzan,,,,1888
+"Chelifer subrobustus","belongs to",Chelifer,,Balzan,,,,1892
+"Electrobisium acutum","belongs to",Electrobisium,"T. D. A.",Cockerell,,,,1917
+"Garypus burmiticus","belongs to",Garypus,"T. D. A.",Cockerell,,,,1920
+"Chelifer hemprichii","belongs to",Pseudogarypus,M.,Beier,,,,1937
+"Chelifer kleemanni","belongs to",Pycnochelifer,M.,Beier,,,,1937
+"Obisium rathkii","belongs to",Neobisium,M.,Beier,,,,1937
+"Chelifer wigandi","belongs to",Oligochernes,M.,Beier,,,,1937
+"Chelifer hartmanni","belongs to",Cheiridium,M.,Beier,,,,1937
+"Dichela berendtii","belongs to",Oligochelifer,M.,Beier,,,,1937
+"Obisium sieboldtii","belongs to",Oligowithius,M.,Beier,,,,1937
+"Chelignathus kochii","belongs to",Heterolophus,M.,Beier,,,,1937
+"Garypinus electri","belongs to",Garypinus,M.,Beier,,,,1937
+"Geogarypus macrodactylus","belongs to",Geogarypus,M.,Beier,,,,1937
+Heterolophus,"belongs to",Pseudoscorpiones,M.,Beier,,,,1937
+"Chthonius (Chthonius) mengei","belongs to","Chthonius (Chthonius)",M.,Beier,,,,1937
+"Geogarypus major","belongs to",Geogarypus,M.,Beier,,,,1937
+"Pseudogarypus extensus","belongs to",Pseudogarypus,M.,Beier,,,,1937
+"Oligochernes bachofeni","belongs to",Oligochernes,M.,Beier,,,,1937
+"Oligochelifer gracilis","belongs to",Oligochelifer,M.,Beier,,,,1937
+"Oligochelifer serratidentatus","belongs to",Oligochelifer,M.,Beier,,,,1937
+"Oligochelifer granulatus","belongs to",Oligochelifer,M.,Beier,,,,1937
+"Electrochelifer mengei","belongs to",Electrochelifer,M.,Beier,,,,1937
+"Pseudogarypus minor","belongs to",Pseudogarypus,M.,Beier,,,,1947
+"Electrochelifer bachofeni","belongs to",Electrochelifer,M.,Beier,,,,1947
+"Electrochelifer rapulitarsatus","belongs to",Electrochelifer,M.,Beier,,,,1947
+"Chelifer hartmanni","belongs to",Cheiridium,M.,Beier,,,,1955
+"Obisium sieboldtii","belongs to",Oligowithius,M.,Beier,,,,1955
+"Chelignathus kochii","belongs to",Chelignathus,M.,Beier,,,,1955
+"Neobisium exstinctum","belongs to",Neobisium,M.,Beier,,,,1955
+"Roncus succineus","belongs to",Roncus,M.,Beier,,,,1955
+"Geogarypus macrodactylus","belongs to",Geogarypus,M.,Beier,,,,1955
+"Progonatemnus succineus","belongs to",Progonatemnus,M.,Beier,,,,1955
+"Electrochelifer balticus","belongs to",Electrochelifer,M.,Beier,,,,1955
+Chthoniidae,"belongs to",Heterosphyronida,"W. D.",Pierce,J.,Gibron,,1962
+Lechytia,"belongs to",Chthoniidae,"W. D.",Pierce,J.,Gibron,,1962
+"Chthonius (Chthonius) pristinus","belongs to","Chthonius (Chthonius)",W.,Schawaller,,,,1978
+"Microcreagris koellneri","belongs to",Microcreagris,W.,Schawaller,,,,1978
+"Pachychernes effossus","belongs to",Pachychernes,W.,Schawaller,,,,1980
+Americhernes,"belongs to",Chernetidae,W.,Schawaller,,,,1980
+"Lechytia tertiaria","belongs to",Lechytia,W.,Schawaller,,,,1980
+"Pseudochthonius squamosus","belongs to",Pseudochthonius,W.,Schawaller,,,,1980
+Parawithius,"belongs to",Cheliferidae,W.,Schawaller,,,,1981
+"Cryptocheiridium antiquum","belongs to",Cryptocheiridium,W.,Schawaller,,,,1981
+Pseudoscorpiones,"belongs to",Arachnida,W,Schawaller,,,,1991
+Dracochela,"belongs to",Dracochelidae,W.,Schawaller,"W. A.",Shear,"P. M. Bonamo",1991
+"Dracochela deprehendor","belongs to",Dracochela,,Schawaller,,Shear,Bonamo,1991
+"Garyops pumilus","belongs to",Idiogaryops,"M. L. I.",Judson,,,,1998
+Electrobisium,"belongs to",Cheiridiidae,"M. L. I.",Judson,,,,2000
+"Electrobisium acutum","belongs to",Electrobisium,"A. J.",Ross,"P. V.",York,,2000
+"Garypus burmiticus","belongs to",Amblyolpium,"A. J.",Ross,"P. V.",York,,2000
+Cheiridiidae,"belongs to",Cheiridioidea,"M. L. I.",Judson,,,,2000
+Cheiridioidea,"belongs to",Chelonethi,"M. L. I.",Judson,,,,2000
+Chelonethi,"belongs to",Arachnida,"M. L. I.",Judson,,,,2000
+Neobisiidae,"belongs to",Pseudoscorpiones,"M. L. I.",Judson,,,,2003
+Neobisium,"belongs to",Neobisiidae,"M. L. I.",Judson,,,,2003
+"Neobisium henderickxi","belongs to",Neobisium,"M. L. I.",Judson,,,,2003
+Pseudoscorpiones,"belongs to",Arachnida,"M. L. I.",Judson,,,,2003
+"Garypinus electri","belongs to",Garypinus,"M. L. I.",Judson,,,,2003
+"Geogarypus gorskii","belongs to",Geogarypus,H.,Henderickx,,,,2005
+"Pseudogarypus pangaea","belongs to",Pseudogarypus,H.,Henderickx,,,,2006
+Pseudoscorpiones,"belongs to",Haplocnemata,"J. W.",Shultz,,,,2007
+Pseudochiridiidae,"belongs to",Cheiridioidea,"M. L. I.",Judson,,,,2007
+Pseudochiridium,"belongs to",Pseudochiridiidae,"M. L. I.",Judson,,,,2007
+"Pseudochiridium lindae","belongs to",Pseudochiridium,"M. L. I.",Judson,,,,2007
+"Heurtaultia rossiorum","belongs to",Heurtaultia,"M. L. I.",Judson,,,,2009
+Paratemnoides,"belongs to",Atemninae,"M. L. I.",Judson,,,,2010
+"Chelifer eucarpus","belongs to",Withius,"M. L. I.",Judson,,,,2010
+Tyrannochthoniini,"belongs to",Chthoniidae,"M. L. I.",Judson,,,,2010
+Tyrannochthonius,"belongs to",Tyrannochthoniini,"M. L. I.",Judson,,,,2010
+Atemninae,"belongs to",Atemnidae,"M. L. I.",Judson,,,,2010
+"Chelifer nidificator","belongs to",Paratemnoides,"M. L. I.",Judson,,,,2010
+"Chelifer subrobustus","belongs to",Pachychernes,"M. L. I.",Judson,,,,2010
+Dolichowithius,"belongs to",Withiidae,"M. L. I.",Judson,,,,2010
+Dracochelidae,"belongs to",Pseudoscorpiones,"M. L. I.",Judson,,,,2012
+Dracochela,"belongs to",Dracochelidae,"M. L. I.",Judson,,,,2012
+"Dracochela deprehendor","belongs to",Dracochela,"M. L. I.",Judson,,,,2012
+"Geogarypus gorskii","belongs to",Geogarypus,H.,Henderickx,"E. E.",Perkovsky,,2012
+"Pseudogarypus synchrotron","belongs to",Pseudogarypus,H.,Henderickx,,,,2012
+Chernetidae,"belongs to",Cheliferoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Electrobisium,"belongs to",Neobisiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Electrobisium acutum","belongs to",Electrobisium,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Neobisiidae,"belongs to",Neobisioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Neobisium,"belongs to",Neobisiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Garypus burmiticus","belongs to",Amblyolpium,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cheiridiidae,"belongs to",Cheiridioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cheiridioidea,"belongs to",Panctenata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chelonethi,"belongs to",Pseudoscorpiones,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chthoniidae,"belongs to",Chthonioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Lechytia,"belongs to",Lechytidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Roncus,"belongs to",Neobisiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chelifer,"belongs to",Withiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelifer hemprichii","belongs to",Pseudogarypus,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelifer ehrenbergii","nomen dubium",Pseudoscorpiones,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelifer kleemanni","belongs to",Pycnochelifer,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Obisium rathkii","subjective synonym of","Chelifer kleemanni","J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Epiochierata,"belongs to",Chelonethi,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Feaelloidea,"belongs to",Epiochierata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pseudogarypidae,"belongs to",Feaelloidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pseudogarypus,"belongs to",Pseudogarypidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cheliferidae,"belongs to",Cheliferoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cheliferoidea,"belongs to",Panctenata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Iochierata,"belongs to",Chelonethi,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Hemictenata,"belongs to",Iochierata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Panctenata,"belongs to",Iochierata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pycnochelifer,"belongs to",Cheliferidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pachychernes,"belongs to",Chernetidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Pachychernes effossus","belongs to",Pachychernes,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pseudochthonius,"belongs to",Chthoniidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Lechytia tertiaria","belongs to",Lechytia,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Pseudochthonius squamosus","belongs to",Pseudochthonius,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Lechytidae,"belongs to",Chthonioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chthonioidea,"belongs to",Epiochierata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chthonius,"belongs to",Chthoniidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chthonius (Chthonius)","belongs to",Chthonius,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chthonius (Chthonius) pristinus","belongs to","Chthonius (Chthonius)","J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Microcreagris,"belongs to",Neobisiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Microcreagris koellneri","belongs to",Microcreagris,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Neobisioidea,"belongs to",Hemictenata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cheiridium,"belongs to",Cheiridiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Dracochelidae,"belongs to",Pseudoscorpiones,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Dracochela,"belongs to",Dracochelidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Tridenchthoniidae,"belongs to",Chthonioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Chelignathus,"belongs to",Tridenchthoniidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Garypoidea,"belongs to",Panctenata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Garypinidae,"belongs to",Garypoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Amblyolpium,"belongs to",Garypinidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Garypinus,"belongs to",Garypinidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Geogarypidae,"belongs to",Garypoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Geogarypus,"belongs to",Geogarypidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Sternophoroidea,"belongs to",Panctenata,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Sternophoridae,"belongs to",Sternophoroidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Idiogaryops,"belongs to",Sternophoridae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Cryptocheiridium,"belongs to",Cheiridiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pseudochiridiidae,"belongs to",Cheiridioidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Pseudochiridium,"belongs to",Pseudochiridiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Atemnidae,"belongs to",Cheliferoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Paratemnoides,"belongs to",Atemnidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Dichela,"belongs to",Cheliferidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Oligochelifer,"subjective synonym of",Dichela,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Electrochelifer,"belongs to",Cheliferidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Heurtaultia,"belongs to",Cheliferidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Trachychelifer,"belongs to",Cheliferidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Oligochernes,"belongs to",Chernetidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Withiidae,"belongs to",Cheliferoidea,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Beierowithius,"belongs to",Withiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Withius,"belongs to",Withiidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelifer wigandi","belongs to",Oligochernes,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelifer hartmanni","belongs to",Cheiridium,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Dichela berendtii","belongs to",Dichela,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Obisium sieboldtii","belongs to",Beierowithius,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Chelignathus kochii","belongs to",Chelignathus,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Progonatemnus,"belongs to",Atemnidae,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Oligochelifer gracilis","belongs to",Dichela,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Oligochelifer serratidentatus","belongs to",Dichela,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+"Oligochelifer granulatus","belongs to",Dichela,"J. A.",Dunlop,D.,Penney,"D. Jekel",2013
+Mayachernes,"belongs to",Chernetidae,F.,Riquelme,"D. F.",Piedra-Jiménez,"V. Córdova-Tabares",2014
+"Mayachernes maatiatus","belongs to",Mayachernes,F.,Riquelme,"D. F.",Piedra-Jiménez,"V. Córdova-Tabares",2014
+Chthoniidae,"belongs to",Chthonioidea,"M. L. I.",Judson,,,,2016
+Paratemnoides,"belongs to",Atemninae,"M. L. I.",Judson,,,,2016
+Tyrannochthoniini,"belongs to",Chthoniidae,"M. L. I.",Judson,,,,2016
+Tyrannochthonius,"belongs to",Tyrannochthoniini,"M. L. I.",Judson,,,,2016
+Atemninae,"belongs to",Atemnidae,"M. L. I.",Judson,,,,2016
+Mayachernes,"subjective synonym of",Byrsochernes,"M. L. I.",Judson,,,,2016
+"Mayachernes maatiatus","belongs to",Byrsochernes,"M. L. I.",Judson,,,,2016
+Paraliochthonius,"belongs to",Tyrannochthoniini,"M. L. I.",Judson,,,,2016
+"Paraliochthonius miomaya","belongs to",Paraliochthonius,"M. L. I.",Judson,,,,2016
+Cheliferini,"belongs to",Cheliferinae,"M. L. I.",Judson,,,,2016
+Cheliferinae,"belongs to",Cheliferidae,"M. L. I.",Judson,,,,2016
+Byrsochernes,"belongs to",Chernetidae,"M. L. I.",Judson,,,,2016
+Lustrochernes,"belongs to",Chernetidae,"M. L. I.",Judson,,,,2016
+Protofeaella,"belongs to",Feaellidae,H.,Henderickx,,,,2016
+Feaellidae,"belongs to",Feaelloidea,H.,Henderickx,,,,2016
+"Protofeaella peetersae","belongs to",Protofeaella,H.,Henderickx,,,,2016
+Chthoniidae,"belongs to",Chthonioidea,"M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+Philomaorini,"belongs to",Cheliferidae,"A. R.",Schmidt,U.,Kaulfuss,"J. M. Bannister, V. Baranov, C. Beimforde, N. Bleile, A. Borkent, A. Busch, J. G. Conran, M. S. Engel, M. Harvey, E. M. Kennedy, P. H. Kerr, E. Kettunen, A. P. Kiecksee, F. Lengeling, J. K. Lindqvist, M. Maraun, D. C. Mildenhall, V. Perrichot, J. Rikkinen",2018
+Philomaoria,"belongs to",Philomaorini,"A. R.",Schmidt,U.,Kaulfuss,"J. M. Bannister, V. Baranov, C. Beimforde, N. Bleile, A. Borkent, A. Busch, J. G. Conran, M. S. Engel, M. Harvey, E. M. Kennedy, P. H. Kerr, E. Kettunen, A. P. Kiecksee, F. Lengeling, J. K. Lindqvist, M. Maraun, D. C. Mildenhall, V. Perrichot, J. Rikkinen",2018
+Weygoldtiella,"belongs to",Chthoniinae,"M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+Chthoniinae,"belongs to",Chthoniidae,"M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+"Weygoldtiella plausus","belongs to",Weygoldtiella,"M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+Heterosphyronida,"subjective synonym of",Pseudoscorpiones,"M. E.",Clapham,,,,2020

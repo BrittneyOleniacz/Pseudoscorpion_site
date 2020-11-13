@@ -1,0 +1,127 @@
+taxon_rank,taxon_name,author1init,author1last,author2init,author2last,otherauthors,pubyr
+genus,Amblyolpium,,Simon,,,,1898
+species,"Amblyolpium burmiticum","T. D. A.",Cockerell,,,,1920
+genus,Americhernes,,Muchmore,,,,1976
+family,Atemnidae,,Kishida,,,,1929
+subfamily,Atemninae,,Kishida,,,,1929
+genus,Beierowithius,,Mahnert,,,,1979
+species,"Beierowithius sieboldtii",A.,Menge,,,,1854
+genus,Byrsochernes,,Beier,,,,1959
+species,"Byrsochernes maatiatus",F.,Riquelme,"D. F.",Piedra-Jiménez,"V. Córdova-Tabares",2014
+family,Cheiridiidae,,Hansen,,,,1894
+superfamily,Cheiridioidea,,Hansen,,,,1894
+genus,Cheiridium,,Menge,,,,1855
+species,"Cheiridium hartmanni",A.,Menge,,,,1854
+genus,Chelifer,"E. L.",Geoffroy,,,,1762
+species,"Chelifer ehrenbergii","C. L.",Koch,"G. C.",Berendt,,1854
+family,Cheliferidae,,Risso,,,,1826
+subfamily,Cheliferinae,,Risso,,,,1827
+tribe,Cheliferini,,Risso,,,,1827
+superfamily,Cheliferoidea,,Risso,,,,1826
+genus,Chelignathus,A.,Menge,,,,1854
+species,"Chelignathus kochii",A.,Menge,,,,1854
+"unranked clade",Chelonethi,,Thorell,,,,1883
+family,Chernetidae,,Menge,,,,1855
+family,Chthoniidae,,Daday,,,,1889
+subfamily,Chthoniinae,,Daday,,,,1889
+superfamily,Chthonioidea,,Daday,,,,1889
+genus,Chthonius,,Koch,,,,1843
+subgenus,"Chthonius (Chthonius)",,Koch,,,,1843
+species,"Chthonius (Chthonius) mengei",M.,Beier,,,,1937
+species,"Chthonius (Chthonius) pristinus",W.,Schawaller,,,,1978
+genus,Cryptocheiridium,,Chamberlin,,,,1931
+species,"Cryptocheiridium antiquum",W.,Schawaller,,,,1981
+genus,Dichela,A.,Menge,,,,1854
+species,"Dichela berendtii",A.,Menge,,,,1854
+species,"Dichela gracilis",M.,Beier,,,,1937
+species,"Dichela granulatus",M.,Beier,,,,1937
+species,"Dichela serratidentatus",M.,Beier,,,,1937
+genus,Dolichowithius,,Beier,,,,1932
+genus,Dracochela,W.,Schawaller,"W. A.",Shear,"P. M. Bonamo",1991
+species,"Dracochela deprehendor",W.,Schawaller,"W. A.",Shear,"P. M. Bonamo",1991
+family,Dracochelidae,W.,Schawaller,"W. A.",Shear,"P. M. Bonamo",1991
+genus,Electrobisium,"T. D. A.",Cockerell,,,,1917
+species,"Electrobisium acutum","T. D. A.",Cockerell,,,,1917
+genus,Electrochelifer,M.,Beier,,,,1937
+species,"Electrochelifer bachofeni",M.,Beier,,,,1947
+species,"Electrochelifer balticus",M.,Beier,,,,1955
+species,"Electrochelifer mengei",M.,Beier,,,,1937
+species,"Electrochelifer rapulitarsatus",M.,Beier,,,,1947
+"unranked clade",Epiochierata,,Harvey,,,,1992
+family,Feaellidae,,Ellingsen,,,,1906
+superfamily,Feaelloidea,,Ellingsen,,,,1906
+family,Garypinidae,,Daday,,,,1888
+genus,Garypinus,,Daday,,,,1888
+species,"Garypinus electri",M.,Beier,,,,1937
+superfamily,Garypoidea,,Simon,,,,1879
+family,Geogarypidae,,Chamberlin,,,,1930
+genus,Geogarypus,,Chamberlin,,,,1930
+species,"Geogarypus gorskii",H.,Henderickx,,,,2005
+species,"Geogarypus macrodactylus",M.,Beier,,,,1937
+species,"Geogarypus major",M.,Beier,,,,1937
+"unranked clade",Hemictenata,,Balzan,,,,1892
+genus,Heterolophus,,Tömösváry,,,,1884
+genus,Heurtaultia,,Judson,,,,2009
+species,"Heurtaultia rossiorum","M. L. I.",Judson,,,,2009
+genus,Idiogaryops,,Hoff,,,,1963
+species,"Idiogaryops pumilus",,Hoff,,,,1963
+"unranked clade",Iochierata,,Harvey,,,,1992
+genus,Lechytia,,Balzan,,,,1891
+species,"Lechytia tertiaria",W.,Schawaller,,,,1980
+family,Lechytidae,,Chamberlin,,,,1929
+genus,Lustrochernes,,Beier,,,,1932
+genus,Microcreagris,,Balzan,,,,1892
+species,"Microcreagris koellneri",W.,Schawaller,,,,1978
+family,Neobisiidae,,Chamberlin,,,,1930
+superfamily,Neobisioidea,,Chamberlin,,,,1930
+genus,Neobisium,,Chamberlin,,,,1930
+species,"Neobisium exstinctum",M.,Beier,,,,1955
+species,"Neobisium henderickxi","M. L. I.",Judson,,,,2003
+genus,Obisium,,Leach,,,,1814
+genus,Oligochernes,M.,Beier,,,,1937
+species,"Oligochernes bachofeni",M.,Beier,,,,1937
+species,"Oligochernes wigandi",A.,Menge,,,,1854
+genus,Pachychernes,,Beier,,,,1932
+species,"Pachychernes effossus",W.,Schawaller,,,,1980
+species,"Pachychernes subrobustus",,Balzan,,,,1892
+"unranked clade",Panctenata,,Balzan,,,,1892
+genus,Paraliochthonius,,Beier,,,,1956
+species,"Paraliochthonius miomaya","M. L. I.",Judson,,,,2016
+genus,Paratemnoides,,Harvey,,,,1991
+species,"Paratemnoides nidificator",,Balzan,,,,1888
+genus,Parawithius,,Chamberlin,,,,1931
+genus,Philomaoria,,Chamberlin,,,,1931
+subfamily,Philomaoriinae,,Chamberlin,,,,1931
+genus,Progonatemnus,M.,Beier,,,,1955
+species,"Progonatemnus succineus",M.,Beier,,,,1955
+genus,Protofeaella,H.,Henderickx,,,,2016
+species,"Protofeaella peetersae",H.,Henderickx,,,,2016
+family,Pseudochiridiidae,,Chamberlin,,,,1923
+genus,Pseudochiridium,,With,,,,1906
+species,"Pseudochiridium lindae","M. L. I.",Judson,,,,2007
+genus,Pseudochthonius,,Balzan,,,,1892
+species,"Pseudochthonius squamosus",W.,Schawaller,,,,1980
+family,Pseudogarypidae,,Chamberlin,,,,1923
+genus,Pseudogarypus,,Ellingsen,,,,1909
+species,"Pseudogarypus extensus",M.,Beier,,,,1937
+species,"Pseudogarypus hemprichii","C. L.",Koch,"G. C.",Berendt,,1854
+species,"Pseudogarypus minor",M.,Beier,,,,1947
+species,"Pseudogarypus pangaea",H.,Henderickx,,,,2006
+species,"Pseudogarypus synchrotron",H.,Henderickx,,,,2012
+order,Pseudoscorpiones,,Latreille,,,,1817
+order,Pseudoscorpionida,,Latreille,,,,1817
+genus,Pycnochelifer,M.,Beier,,,,1937
+species,"Pycnochelifer kleemanni","C. L.",Koch,"G. C.",Berendt,,1854
+genus,Roncus,,Koch,,,,1873
+species,"Roncus succineus",M.,Beier,,,,1955
+family,Sternophoridae,,Chamberlin,,,,1923
+superfamily,Sternophoroidea,,Chamberlin,,,,1923
+genus,Trachychelifer,,Hong,,,,1983
+family,Tridenchthoniidae,,Balzan,,,,1892
+tribe,Tyrannochthoniini,,Chamberlin,,,,1962
+genus,Tyrannochthonius,,Chamberlin,,,,1929
+genus,Weygoldtiella,"M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+species,"Weygoldtiella plausus","M. S.",Harvey,"J. G.",Cosgrove,"D. Harms, P. A. Selden, C. K. Shih, C. C. Wang",2018
+family,Withiidae,,Chamberlin,,,,1931
+genus,Withius,,Kew,,,,1911
+species,"Withius eucarpus","J. W.",Dalman,,,,1826

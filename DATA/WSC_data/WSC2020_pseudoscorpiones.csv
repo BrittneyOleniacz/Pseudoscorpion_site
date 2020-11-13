@@ -1,0 +1,86 @@
+﻿Order,SuperFamily,Family,Range,Genus,Species,Author,Type Locality,Type Age range
+Paleosphyronida,Dracocheloidea,Dracochelidea,Devonian ‒ Recent,Dracochela,deprehendor,"Schwaller, Shear & Bonamo, 1991",Gilboa,Devonian
+Heterospyhronida,Chtonoidea,Chthonoidea,Cretaceous ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Chelignathus,kochii,Menge in Koch & Berendt 1854,Baltic,Paleogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),mengei,"Beier, 1937",Baltic,Paleogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),pristinus,"Schwaller, 1978",Baltic,Paleogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Lechytia,tertiaria,"Schwaller, 1978",Dominican,Neogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Paraliochthonius,miomaya,"Judson, 2016",Chiapas,Neogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Pseudochthonius,squamosus,"Schwaller, 1980",Dominican,Neogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,in Judson (2010),Madagascar,Quaternary
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,in Judson (2016),Chiapas,Neogene
+Heterospyhronida,Chtonoidea,Chthoniidae,Cretaceous ‒ Recent,Weygoldtiella,plausus,Harvey et al. 2018,Burmese,Cretaceous
+Heterospyhronida,Chtonoidea,Lechytidae,Neogene ‒ Recent,indet.,indet.,N/A,N/A,N/A
+Heterospyhronida,Chtonoidea,Pseudotyrannochthoniidae,Paleogene ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Homosyphronida,NA,NA,Cretaceous ‒ Recent,indet.,indet.,N/A,N/A,N/A
+Atoposyphronida,Feaelloidea,Feaellidae,Cretaceous ‒ Recent,Feaella (Tetraeaella),groehni,"Henderickx in Henderickx & Boone, 2014",Baltic,Paleogene
+Atoposyphronida,Feaelloidea,Feaellidae,Cretaceous ‒ Recent,Protofeaella,peetersae,"Henderickx in Henderickx & Boone, 2016",Burmese,Cretaceous
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,extensus,"Beier, 1937",Baltic,Paleogene
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,hemprichii,"(C.L. Koch & Berendt, 1854)",Baltic,Paleogene
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,minor,"Beier, 1937",Baltic/Rovno,Paleogene
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,pangeae,"Henderickx in Henderickx et al., 2006",Baltic,Paleogene
+Atoposyphronida,Feaelloidea,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,synchrotron,Henderickx in Henderickx et al. 2012,Baltic,Paleogene
+Iochierata,NA,NA,Cretaceous ‒ Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Bochicidae,Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Gymnobisiidae,Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Hyidae,Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Ideoroncidae,Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Neobisiidae,Cretaceous ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Hemictenata,Neobisoidea,Neobisiidae,Cretaceous ‒ Recent,Microcreagris,koellnerorum,"Schwaller, 1978",Baltic,Paleogene
+Hemictenata,Neobisoidea,Neobisiidae,Cretaceous ‒ Recent,Neobisium (Neobisium),extinctum,"Beier, 1955",Baltic,Paleogene
+Hemictenata,Neobisoidea,Neobisiidae,Cretaceous ‒ Recent,Neobisium,henderickxi,"Judson, 2003",Baltic,Paleogene
+Hemictenata,Neobisoidea,Neobisiidae,Cretaceous ‒ Recent,Roncus,succineus,"Beier, 1955",Baltic,Paleogene
+Hemictenata,Neobisoidea,Parahyidae,Recent,indet.,indet.,NA,N/A,N/A
+Hemictenata,Neobisoidea,Syarinidae,Recent,indet.,indet.,NA,N/A,N/A
+Panctenata,Garypoidea,Garypidae,Recent,NA,indet.,NA,N/A,N/A
+Panctenata,Garypoidea,Geogarypidae,Paleogene ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Garypoidea,Geogarypidae,Paleogene ‒ Recent,Geogarypus,gorskii,"Henderix, 2005",Baltic/Rovno,Paleogene
+Panctenata,Garypoidea,Geogarypidae,Paleogene ‒ Recent,Geogarypus,macrodactylus,"Beier, 1937",Baltic,Paleogene
+Panctenata,Garypoidea,Geogarypidae,Paleogene ‒ Recent,Geogarypus,major,"Beier, 1937",Baltic,Paleogene
+Panctenata,Garypoidea,Hesperolpiidae,Recent,indet.,indet.,NA,N/A,N/A
+Panctenata,Garypoidea,Methidae,Recent,indet.,indet.,NA,N/A,N/A
+Panctenata,Garypoidea,Olpiidae,Recent,indet.,indet.,NA,N/A,N/A
+Panctenata,Garypinoidea,Garypinidae,Cretaceous ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Garypinoidea,Garypinidae,Cretaceous ‒ Recent,Amblyolpium,burmiticum,"Cockerell, 1920",Burmese,Cretaceous
+Panctenata,Garypinoidea,Garypinidae,Cretaceous ‒ Recent,Garypinus,electri,"Beier, 1937",Baltic,Paleogene
+Panctenata,Garypinoidea,Larcidae,recent,indet.,indet.,NA,N/A,N/A
+Panctenata,Cheirdioidea,Cheiriidae,Cretaceous ‒ Recent,indet.,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Cheirdioidea,Cheiriidae,Cretaceous ‒ Recent,Cheridium,hartmanni,Menge in Koch & Berendt 1854,Baltic,Paleogene
+Panctenata,Cheirdioidea,Cheiriidae,Cretaceous ‒ Recent,Cyptocheiridium (Cyptocheiridium),antiquum,"Schwaller, 1981",Dominican,Neogene
+Panctenata,Cheirdioidea,Cheiriidae,Cretaceous ‒ Recent,Electrobisium,acutum,"Cockerell, 1917",Burmese,Cretaceous
+Panctenata,Cheirdioidea,Pseudochiridiidae,Neogene ‒ Recent,Pseudochiridium,lindae,"Judson, 2007",Dominican,Neogene
+Panctenata,Sternophoroidea,Sternophoridae,Neogene ‒ Recent,Idiogaryops,pumilus,"(Hoff, 1963)",Dominican,Neogene
+Panctenata,Cheliferoidea,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,in Judson (2010),Dominican,Neogene
+Panctenata,Cheliferoidea,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Cheliferoidea,Atemnidae,Paleogene ‒ Recent,Paratemnoides,nidificator,"(Balzan, 1888)",Colombian,Quaternary
+Panctenata,Cheliferoidea,Atemnidae,Paleogene ‒ Recent,Paratemnoides (?),sp.,"in Beier, 1955",Chiapas,Neogene
+Panctenata,Cheliferoidea,Atemnidae,Paleogene ‒ Recent,Progonatemnus,succineus,"Beier, 1955",Baltic,Paleogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,indet. ,,in Judson (2009),Archingeay,Cretaceous
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,indet. ,indet.,in Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,Cheliferini gen.,sp. Indet.,in Judson (2009),Chiapas,Neogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,Dichela,berendtii,Menge in Koch & Berendt 1854,Baltic,Paleogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,Dichela,gracilis,"Beier, 1937",Baltic,Paleogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,Dichela,granulatus,"Beier, 1937",Baltic,Paleogene
+Panctenata,Cheliferoidea,Cheliferidae,Cretaceous ‒ Recent,Dichela,serratidentatus,"Beier, 1937",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Electrochelifer,bachofeni,"Beier, 1947",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Electrochelifer,balticus,"Beier, 1955",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Electrochelifer,groehni,"Dashdamirmov, 2008",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Electrochelifer,mengei,"Beier, 1937",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Electrochelifer,rapulitarsatus,"Beier, 1947",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Heurtaultia,rossiorum,"Judson, 2009",Archingeay,Cretaceous
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Pycnochelifer,kleemanni,"(C.L. Koch & Berendt, 1854)",Baltic,Paleogene
+Panctenata,Cheliferoidea,Electrochelifer,Palegene,Trachychelifer,liaoningense,"Hong, 1983",Chinese,Paleogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Schawaller (1991),Canadian,Cretaceous
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Schawaller (1982),Chiapas,Neogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Byrosochernes,maatiatus,(Riqueime et al. 2014 in Riqueime et al.(2014)),Chiapas,Neogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Lustrochernes,sp. 1-2,in Judson (2016),Chiapas,Neogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Oligochernes,bachofeni,"Beier, 1937",Baltic,Paleogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Oligochernes,wigandi,(Menge in Koch & Berendt 1854),Baltic,Paleogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Pachychernes,effosus,"Schawaller, 1980",Dominican,Neogene
+Panctenata,Cheliferoidea,Chernetidae,Cretaceous ‒ Recent,Pachychernes,aff. Subrobustus,"(Balzan, 1892)",Colombian,Quaternary
+Panctenata,Cheliferoidea,Withiidae,Paleogene ‒ Recent,indet.,indet.,in Ahrens et al. (2019),Bitterfeld,Paleogene
+Panctenata,Cheliferoidea,Withiidae,Paleogene ‒ Recent,Beierowithius,sieboldtii,(Menge in Koch & Berendt 1854),Baltic,Paleogene
+Panctenata,Cheliferoidea,Withiidae,Paleogene ‒ Recent,Withius,eucarpus,"(Dalman, 1826)",East Africa,Quaternary
+indet.,indet.,NOMUM DUBIUM,indet.,Chelifer,ehrenbergii,"C.L. Koch & Berendt, 1854",Baltic,Paleogene
+indet.,indet.,NOMUM NUDUM,indet.,Chelifer,fossilis,"Weyenbergh, 1874",Solnhofen,Jurassic

@@ -1,0 +1,5 @@
+taxon_rank,taxon_name,author1init,author1last,author2init,author2last,otherauthors,pubyr,invalid_reason
+order,Heterosphyronida,,Chamberlin,,,,1929,"subjective synonym of Pseudoscorpiones"
+genus,Mayachernes,F.,Riquelme,"D. F.",Piedra-Jiménez,"V. Córdova-Tabares",2014,"subjective synonym of Byrsochernes"
+species,"Obisium rathkii","C. L.",Koch,"G. C.",Berendt,,1854,"subjective synonym of Pycnochelifer kleemanni"
+genus,Oligochelifer,M.,Beier,,,,1937,"subjective synonym of Dichela"

@@ -6,12 +6,12 @@ html {
 
 body {
   /* background-color: #9a94a23b; */
-  background-color: #fff;
+  /* background-color: #fff; */
   padding-bottom: 50px;
   background-image: url("old_paper6.jpg");
   background-attachment: fixed;
   background-position: left;
-  background-blend-mode: luminosity;
+  /* background-blend-mode: luminosity; */
 }
 
 h1 {
@@ -28,8 +28,8 @@ a {
 }
 
 .row {
-  background-color: whitesmoke;
-  /* background-color: #fffefdb0; */
+  /* background-color: whitesmoke; */
+  background-color: #fffefdb0;
 }
 
 #line {
@@ -229,12 +229,8 @@ navbar-nav-m {
 }
 
 .navbar-bg2 {
-  /* background-color: #c7ad90; */
-  /* background-color: #8a663ea3; */
-  /* background-color: #b78f63; */
-  /* background-color: #c19a6e; */
-  background-color: #d4d0cd;
-  /* background-color: #c5a988; */
+  /* background-color: #d4d0cd; */
+  background-color: #c5a988;
   opacity: .95;
 }
 .navbar-bg3 {

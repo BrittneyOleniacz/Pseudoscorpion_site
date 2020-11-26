@@ -10,7 +10,8 @@ body {
   padding-bottom: 50px;
   background-image: url("old_paper6.jpg");
   background-attachment: fixed;
-  background-position: left;
+  /* background-position: left; */
+  background-position: inherit;
   /* background-blend-mode: luminosity; */
 }
 

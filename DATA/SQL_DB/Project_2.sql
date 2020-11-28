@@ -36,12 +36,7 @@ CREATE TABLE "Dating_data" (
      )
 );
 
--- GEOL_data
--- ----
--- Formation
--- Unit
--- Lithology
--- Dep_env
+
 CREATE TABLE "PBDB_Review" (
     "Family" varchar   NOT NULL,
     "Genus" varchar   NOT NULL,

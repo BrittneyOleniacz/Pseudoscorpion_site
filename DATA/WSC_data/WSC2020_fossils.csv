@@ -1,86 +1,86 @@
-﻿Order,Family,Range,Genus,Species,Locality,Rel_date
-Paleosphyronida,Dracochelidea,Devonian ‒ Recent,Dracochela,deprehendor,Gilboa,Devonian
-Heterospyhronida,Chthonoidea,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chelignathus,kochii,Baltic,Paleogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),mengei,Baltic,Paleogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),pristinus,Baltic,Paleogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Lechytia,tertiaria,Dominican,Neogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Paraliochthonius,miomaya,Chiapas,Neogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Pseudochthonius,squamosus,Dominican,Neogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,Madagascar,Quaternary
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,Chiapas,Neogene
-Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Weygoldtiella,plausus,Burmese,Cretaceous
-Heterospyhronida,Lechytidae,Neogene ‒ Recent,indet.,indet.,N/A,N/A
-Heterospyhronida,Pseudotyrannochthoniidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Homosyphronida,NA,Cretaceous ‒ Recent,indet.,indet.,N/A,N/A
-Atoposyphronida,Feaellidae,Cretaceous ‒ Recent,Feaella (Tetraeaella),groehni,Baltic,Paleogene
-Atoposyphronida,Feaellidae,Cretaceous ‒ Recent,Protofeaella,peetersae,Burmese,Cretaceous
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,extensus,Baltic,Paleogene
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,hemprichii,Baltic,Paleogene
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,minor,Baltic/Rovno,Paleogene
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,pangeae,Baltic,Paleogene
-Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,synchrotron,Baltic,Paleogene
-Iochierata,NA,Cretaceous ‒ Recent,indet.,indet.,N/A,N/A
-Hemictenata,Bochicidae,Recent,indet.,indet.,N/A,N/A
-Hemictenata,Gymnobisiidae,Recent,indet.,indet.,N/A,N/A
-Hemictenata,Hyidae,Recent,indet.,indet.,N/A,N/A
-Hemictenata,Ideoroncidae,Recent,indet.,indet.,N/A,N/A
-Hemictenata,Neobisiidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Microcreagris,koellnerorum,Baltic,Paleogene
-Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Neobisium (Neobisium),extinctum,Baltic,Paleogene
-Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Neobisium,henderickxi,Baltic,Paleogene
-Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Roncus,succineus,Baltic,Paleogene
-Hemictenata,Parahyidae,Recent,indet.,indet.,N/A,N/A
-Hemictenata,Syarinidae,Recent,indet.,indet.,N/A,N/A
-Panctenata,Garypidae,Recent,NA,indet.,N/A,N/A
-Panctenata,Geogarypidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,gorskii,Baltic/Rovno,Paleogene
-Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,macrodactylus,Baltic,Paleogene
-Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,major,Baltic,Paleogene
-Panctenata,Hesperolpiidae,Recent,indet.,indet.,N/A,N/A
-Panctenata,Methidae,Recent,indet.,indet.,N/A,N/A
-Panctenata,Olpiidae,Recent,indet.,indet.,N/A,N/A
-Panctenata,Garypinidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Panctenata,Garypinidae,Cretaceous ‒ Recent,Amblyolpium,burmiticum,Burmese,Cretaceous
-Panctenata,Garypinidae,Cretaceous ‒ Recent,Garypinus,electri,Baltic,Paleogene
-Panctenata,Larcidae,recent,indet.,indet.,N/A,N/A
-Panctenata,Cheiriidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Panctenata,Cheiriidae,Cretaceous ‒ Recent,Cheridium,hartmanni,Baltic,Paleogene
-Panctenata,Cheiriidae,Cretaceous ‒ Recent,Cyptocheiridium (Cyptocheiridium),antiquum,Dominican,Neogene
-Panctenata,Cheiriidae,Cretaceous ‒ Recent,Electrobisium,acutum,Burmese,Cretaceous
-Panctenata,Pseudochiridiidae,Neogene ‒ Recent,Pseudochiridium,lindae,Dominican,Neogene
-Panctenata,Sternophoridae,Neogene ‒ Recent,Idiogaryops,pumilus,Dominican,Neogene
-Panctenata,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,Dominican,Neogene
-Panctenata,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,Bitterfeld,Paleogene
-Panctenata,Atemnidae,Paleogene ‒ Recent,Paratemnoides,nidificator,Colombian,Quaternary
-Panctenata,Atemnidae,Paleogene ‒ Recent,Paratemnoides (?),sp.,Chiapas,Neogene
-Panctenata,Atemnidae,Paleogene ‒ Recent,Progonatemnus,succineus,Baltic,Paleogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,indet. ,,Archingeay,Cretaceous
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,indet. ,indet.,Bitterfeld,Paleogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,Cheliferini gen.,sp. Indet.,Chiapas,Neogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,berendtii,Baltic,Paleogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,gracilis,Baltic,Paleogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,granulatus,Baltic,Paleogene
-Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,serratidentatus,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Electrochelifer,bachofeni,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Electrochelifer,balticus,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Electrochelifer,groehni,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Electrochelifer,mengei,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Electrochelifer,rapulitarsatus,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Heurtaultia,rossiorum,Archingeay,Cretaceous
-Panctenata,Electrochelifer,Palegene,Pycnochelifer,kleemanni,Baltic,Paleogene
-Panctenata,Electrochelifer,Palegene,Trachychelifer,liaoningense,Chinese,Paleogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Canadian,Cretaceous
-Panctenata,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Chiapas,Neogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Byrosochernes,maatiatus,Chiapas,Neogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Lustrochernes,sp. 1-2,Chiapas,Neogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Oligochernes,bachofeni,Baltic,Paleogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Oligochernes,wigandi,Baltic,Paleogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Pachychernes,effosus,Dominican,Neogene
-Panctenata,Chernetidae,Cretaceous ‒ Recent,Pachychernes,aff. Subrobustus,Colombian,Quaternary
-Panctenata,Withiidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
-Panctenata,Withiidae,Paleogene ‒ Recent,Beierowithius,sieboldtii,Baltic,Paleogene
-Panctenata,Withiidae,Paleogene ‒ Recent,Withius,eucarpus,East Africa,Quaternary
-indet.,NOMUM DUBIUM,indet.,Chelifer,ehrenbergii,Baltic,Paleogene
-indet.,NOMUM NUDUM,indet.,Chelifer,fossilis,Solnhofen,Jurassic
+﻿TypeLocality,Order,Family,Range,Genus,Species,Locality,Rel_date
+,Paleosphyronida,Dracochelidea,Devonian ‒ Recent,Dracochela,deprehendor,Gilboa,Devonian
+,Heterospyhronida,Chthonoidea,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chelignathus,kochii,Baltic,Paleogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),mengei,Baltic,Paleogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Chthonius (Chthonius),pristinus,Baltic,Paleogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Lechytia,tertiaria,Dominican,Neogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Paraliochthonius,miomaya,Chiapas,Neogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Pseudochthonius,squamosus,Dominican,Neogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,Madagascar,Quaternary
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Tyrannchthonius,sp.,Chiapas,Neogene
+,Heterospyhronida,Chthoniidae,Cretaceous ‒ Recent,Weygoldtiella,plausus,Burmese,Cretaceous
+,Heterospyhronida,Lechytidae,Neogene ‒ Recent,indet.,indet.,N/A,N/A
+,Heterospyhronida,Pseudotyrannochthoniidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Homosyphronida,NA,Cretaceous ‒ Recent,indet.,indet.,N/A,N/A
+,Atoposyphronida,Feaellidae,Cretaceous ‒ Recent,Feaella (Tetraeaella),groehni,Baltic,Paleogene
+,Atoposyphronida,Feaellidae,Cretaceous ‒ Recent,Protofeaella,peetersae,Burmese,Cretaceous
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,extensus,Baltic,Paleogene
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,hemprichii,Baltic,Paleogene
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,minor,Baltic/Rovno,Paleogene
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,pangeae,Baltic,Paleogene
+,Atoposyphronida,Pseudogarypidae,Paleogene ‒ Recent,Pseudogarypus,synchrotron,Baltic,Paleogene
+,Iochierata,NA,Cretaceous ‒ Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Bochicidae,Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Gymnobisiidae,Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Hyidae,Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Ideoroncidae,Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Neobisiidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Microcreagris,koellnerorum,Baltic,Paleogene
+,Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Neobisium (Neobisium),extinctum,Baltic,Paleogene
+,Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Neobisium,henderickxi,Baltic,Paleogene
+,Hemictenata,Neobisiidae,Cretaceous ‒ Recent,Roncus,succineus,Baltic,Paleogene
+,Hemictenata,Parahyidae,Recent,indet.,indet.,N/A,N/A
+,Hemictenata,Syarinidae,Recent,indet.,indet.,N/A,N/A
+,Panctenata,Garypidae,Recent,NA,indet.,N/A,N/A
+,Panctenata,Geogarypidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,gorskii,Baltic/Rovno,Paleogene
+,Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,macrodactylus,Baltic,Paleogene
+,Panctenata,Geogarypidae,Paleogene ‒ Recent,Geogarypus,major,Baltic,Paleogene
+,Panctenata,Hesperolpiidae,Recent,indet.,indet.,N/A,N/A
+,Panctenata,Methidae,Recent,indet.,indet.,N/A,N/A
+,Panctenata,Olpiidae,Recent,indet.,indet.,N/A,N/A
+,Panctenata,Garypinidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Panctenata,Garypinidae,Cretaceous ‒ Recent,Amblyolpium,burmiticum,Burmese,Cretaceous
+,Panctenata,Garypinidae,Cretaceous ‒ Recent,Garypinus,electri,Baltic,Paleogene
+,Panctenata,Larcidae,recent,indet.,indet.,N/A,N/A
+,Panctenata,Cheiriidae,Cretaceous ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Panctenata,Cheiriidae,Cretaceous ‒ Recent,Cheridium,hartmanni,Baltic,Paleogene
+,Panctenata,Cheiriidae,Cretaceous ‒ Recent,Cyptocheiridium (Cyptocheiridium),antiquum,Dominican,Neogene
+,Panctenata,Cheiriidae,Cretaceous ‒ Recent,Electrobisium,acutum,Burmese,Cretaceous
+,Panctenata,Pseudochiridiidae,Neogene ‒ Recent,Pseudochiridium,lindae,Dominican,Neogene
+,Panctenata,Sternophoridae,Neogene ‒ Recent,Idiogaryops,pumilus,Dominican,Neogene
+,Panctenata,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,Dominican,Neogene
+,Panctenata,Atemnidae,Paleogene ‒ Recent,indet. ,indet.,Bitterfeld,Paleogene
+,Panctenata,Atemnidae,Paleogene ‒ Recent,Paratemnoides,nidificator,Colombian,Quaternary
+,Panctenata,Atemnidae,Paleogene ‒ Recent,Paratemnoides (?),sp.,Chiapas,Neogene
+,Panctenata,Atemnidae,Paleogene ‒ Recent,Progonatemnus,succineus,Baltic,Paleogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,indet. ,,Archingeay,Cretaceous
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,indet. ,indet.,Bitterfeld,Paleogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,Cheliferini gen.,sp. Indet.,Chiapas,Neogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,berendtii,Baltic,Paleogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,gracilis,Baltic,Paleogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,granulatus,Baltic,Paleogene
+,Panctenata,Cheliferidae,Cretaceous ‒ Recent,Dichela,serratidentatus,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Electrochelifer,bachofeni,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Electrochelifer,balticus,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Electrochelifer,groehni,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Electrochelifer,mengei,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Electrochelifer,rapulitarsatus,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Heurtaultia,rossiorum,Archingeay,Cretaceous
+,Panctenata,Electrochelifer,Palegene,Pycnochelifer,kleemanni,Baltic,Paleogene
+,Panctenata,Electrochelifer,Palegene,Trachychelifer,liaoningense,Chinese,Paleogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Canadian,Cretaceous
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,indet.,indet.,Chiapas,Neogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Byrosochernes,maatiatus,Chiapas,Neogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Lustrochernes,sp. 1-2,Chiapas,Neogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Oligochernes,bachofeni,Baltic,Paleogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Oligochernes,wigandi,Baltic,Paleogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Pachychernes,effosus,Dominican,Neogene
+,Panctenata,Chernetidae,Cretaceous ‒ Recent,Pachychernes,aff. Subrobustus,Colombian,Quaternary
+,Panctenata,Withiidae,Paleogene ‒ Recent,indet.,indet.,Bitterfeld,Paleogene
+,Panctenata,Withiidae,Paleogene ‒ Recent,Beierowithius,sieboldtii,Baltic,Paleogene
+,Panctenata,Withiidae,Paleogene ‒ Recent,Withius,eucarpus,East Africa,Quaternary
+,indet.,NOMUM DUBIUM,indet.,Chelifer,ehrenbergii,Baltic,Paleogene
+,indet.,NOMUM NUDUM,indet.,Chelifer,fossilis,Solnhofen,Jurassic

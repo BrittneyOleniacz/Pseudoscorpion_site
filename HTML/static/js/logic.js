@@ -27,16 +27,18 @@ d3.csv("oneauthor_references.csv").then(function(citedData) {
     data.author1last = data.author1last;
     data.pubyr = +data.pubyr;
     data.reftitle = data.reftitle.toString();
+    data.pubtitle = data.pubtitle;
   });
 
   console.log(citedData.reftitle)
   var cited = d3.select("#works_cited")
-  var works = d3.select("ul");
+  // var works = d3.select("ul");
 
-  var table = cited.selectAll("ul")
+  cited.selectAll("ol")
     .data(citedData)
     .enter()
     .append("ol")
-    .text(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `${d.reftitle}, ${d.pubtitle}, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
+    // .text(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `${d.reftitle}, ${d.pubtitle}, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
+    .html(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `'${d.reftitle}', ` + "<i>" + `${d.pubtitle}` + "</i>" + `, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
 
 })

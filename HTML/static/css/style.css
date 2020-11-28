@@ -173,6 +173,12 @@ img:hover {
   /* font-family: 'Yu Gothic Light'; */
 }
 
+.cited-text {
+  font-size: 16pt;
+  color:#262227;
+  font-family: 'Yu Gothic Light'!important;
+}
+
 .brand-bg {
   background-color: #ccb88cc2;
   padding-left: inherit;

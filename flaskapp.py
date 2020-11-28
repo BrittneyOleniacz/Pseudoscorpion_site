@@ -8,7 +8,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="Project2",
     user="postgres",
-    password="Abcd1234")
+    password="postgres")
 
 
 @app.route("/Dating_data")

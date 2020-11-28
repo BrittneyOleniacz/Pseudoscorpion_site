@@ -32,6 +32,20 @@ div {
   background-color: transparent;
 }
 
+/* li {
+  display: block;
+} */
+
+ol {
+  display: list-item;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
 .row {
   /* background-color: whitesmoke; */
   /* background-color: #fffefdb0; */

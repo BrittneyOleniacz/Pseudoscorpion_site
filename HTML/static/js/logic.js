@@ -37,6 +37,6 @@ d3.csv("oneauthor_references.csv").then(function(citedData) {
     .data(citedData)
     .enter()
     .append("ol")
-    .text(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `${d.reftitle.toString()}, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
+    .text(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `${d.reftitle}, ${d.pubtitle}, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
 
 })

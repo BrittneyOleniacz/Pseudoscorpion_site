@@ -65,7 +65,7 @@ ol {
   position: fixed;
   bottom: 5px;
   right: 9px;
-  z-index: 99;
+  z-index: 1000;
   font-size: 18px;
   border: none;
   outline: none;

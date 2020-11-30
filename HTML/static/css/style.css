@@ -32,10 +32,6 @@ div {
   background-color: transparent;
 }
 
-/* li {
-  display: block;
-} */
-
 ol {
   display: list-item;
   list-style-type: decimal;
@@ -67,23 +63,29 @@ ol {
 #topBtn {
   display: none;
   position: fixed;
-  bottom: 20px;
-  right: 30px;
+  bottom: 5px;
+  right: 9px;
   z-index: 99;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: rgb(153, 87, 42);
-  color: white;
+  background-color: transparent;
+  /* background-color: rgb(153, 87, 42); */
+  /* color: #b17446; */
   cursor: pointer;
   padding: 2px 10px;
   border-radius: 4px;
-  box-shadow: -1px 1px 6px #00000091;
+  text-shadow: -1px 1px 6px #96613ad4;
+  color: #b17446;
+  font-size: 20px;
+  -webkit-text-stroke: 1px #96613a8f;
+  font-style: italic;
 }
 
-#topBtn:hover {
+/* #topBtn:hover {
   background-color: #555;
-}
+} */
+
 img:hover {
   border: 2px;
 }
@@ -384,6 +386,10 @@ navbar-nav-m {
   border: 2px solid white;
 }
 
+.flip-image {
+  display: flex;
+}
+
 /*---------------------*/
 /* MEDIA CALL STYLING */
 /*---------------------*/
@@ -499,6 +505,10 @@ navbar-nav-m {
 .dropdown:hover .dropdown-menu3{
   display: none;
   right: 0;
+}
+
+.flip-image {
+  display: block;
 }
 
 @media (max-width: 991px) {

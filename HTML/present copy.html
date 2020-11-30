@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Intro to Pseudoscorpions</title>
+
+        <!--------------------------------->
+        <!--------REQUIRED META TAGS------->
+        <!--------------------------------->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!--------------------------------->
+        <!--------BOOTSTRAP STYLING-------->
+        <!--------------------------------->
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <!-- JS, Popper.js, and jQuery -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--------------------------------->
+    <!--------PERSONAL STYLING--------->
+    <!--------------------------------->
+        <link rel="stylesheet" href="static/css/style.css">  
+
+    <!--------------------------------->
+    <!-------BOOTSWATCH STYLING-------->
+    <!--------------------------------->
+        <link rel="stylesheet" href="static/css/bootstrap.css">
+        <link rel="stylesheet" href="static/css/bootstrap.min.css">
+        <link rel="stylesheet" href="static/css/_bootswatch.scss">
+        <link rel="stylesheet" href="static/css/_variables.scss">
+
+    <!--------------------------------->
+    <!--------GOOGLE FONTS API--------->
+    <!--------------------------------->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Upright&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet"> 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.min.js" integrity="sha512-C2RveGuPIWqkaLAluvoxyiaN1XYNe5ss11urhZWZYBUA9Ydgj+hfGKPcxCzTwut1/fmjEZR7Ac35f2aycT8Ogw==" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+</head>
+
+<!--------------------------------->
+<!-------NAVIGATION BAR CODE------->
+<!--------------------------------->
+<body>
+  <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+
+  <nav class="navbar navbar-expand-lg navbar-light navbar-bg2">
+    <div class="navbar-bg"><a class="navbar-brand" href="index.html">Fossil Pseudoscorpions</a></div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end navbar-bg3" id="navbarColor01">
+      <ul class="navbar-nav navbar-nav-m">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="past.html#whyinfo">Why so litte information?</a>
+            <a class="dropdown-item" href="past.html#authorsgraph">Authors Over Time</a>
+            <a class="dropdown-item" href="past.html#breeds">Pseudoscorpion Breeds</a>
+            <a class="dropdown-item" href="past.html#evolution">Evolution</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Present</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="present.html#header">Header</a>
+            <a class="dropdown-item" href="present.html#map">Map</a>
+            <a class="dropdown-item" href="present.html#images">Images</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Future</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="future.html#adding">Adding to Mesozoic Era</a>
+            <a class="dropdown-item" href="future.html#methods">Methods</a>
+            <a class="dropdown-item" href="future.html#ctimages">CT Images</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact<img src="Images/contact.svg" width="25" style="margin-left: .5rem;" title="Contact" alt="Contact"></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="works_cited.html">Works Cited<img src="Images/130304.png" width="25" style="margin-left: .5rem;margin-bottom: .5rem;" title="Works Cited" alt="Works Cited"></a>
+        </li>
+      </ul>
+    </div>
+    </nav>
+
+    <!--------------------------------->
+    <!------------BODY CODE------------>
+    <!--------------------------------->
+
+    <div class="row mx-md-5 pt-5">
+      <div class="col px-md-3">
+        <div class="container-fluid">
+        <div class="p-3 mt-4">  
+        <h1 id="header">Title Header</h1>
+        <hr><div class="text-wrap mt-2 summary-text">
+          Aenean sagittis sapien eu commodo dapibus. Nunc viverra lacus vitae condimentum consectetur. Maecenas pretium maximus scelerisque. Nullam tempus erat sit amet malesuada sodales. Fusce purus purus, luctus ut urna id, faucibus facilisis nibh. Cras felis mi, viverra eget elementum et, faucibus eleifend augue. Quisque nec turpis placerat, tristique felis at, euismod erat. Curabitur nec dapibus felis. Fusce semper mi sed rhoncus sodales. Suspendisse potenti. Sed scelerisque elit tellus, non malesuada mi sodales vitae. Nullam tincidunt est id turpis elementum porttitor. Phasellus ut tincidunt ligula, tempus volutpat risus. Aliquam urna lacus, varius sed risus at, sollicitudin cursus nibh. Nam a risus sagittis, vestibulum massa ut, condimentum nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus.<br><br><hr>
+          <div class="row justify-content-center"> 
+            <div id="map">
+            </div>
+          </div>
+            <div class="row justify-content-center"> 
+              <br><br><br>
+              <div id="images" style="display: flex;">
+                <div class="flip-box">
+                  <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                      <img src="Images/mesozoic_taxa/Alava_1.JPG" alt="Alava" width="400">
+                    </div>
+                    <div class="flip-box-back">
+                      <h2>Undescribed</div>h2><hr style="margin-top:-.5rem;
+                      margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                      <p>Mentioned by Delclos et al. 2007. </p>
+                      <p>Amber: Alava</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-box">
+                  <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                      <img src="Images/mesozoic_taxa/Amblyolpium_burmiticum/Amblyolpium_burmiticum_Cockerell,_1920_type_figure.jpg" alt="Amblyolpium" width="400" height="323">
+                    </div>
+                    <div class="flip-box-back">
+                      <h2>Amblyolpium burmiticum (Cockerell, 1920)</h2><hr style="margin-top:-.5rem;
+                      margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                      <p>Amber: Burmese</p>
+                    </div>
+                  </div>
+                </div></div>
+                <div style="display: flex;">
+                  <div class="flip-box">
+                    <div class="flip-box-inner">
+                      <div class="flip-box-front">
+                        <img src="Images/mesozoic_taxa/Chernetid_indet[France]/Cheliferidae_indet_image.JPG"  alt="Cheliferidae" width="400" height="323">
+                      </div>
+                      <div class="flip-box-back">
+                        <h2>Cheliferidae (Undescribed)</h2><hr style="margin-top:-.5rem;
+                        margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                        <p>Mentioned by Perrichot et al. 2007</p>
+                        <p>Amber: Archingeay</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="flip-box">
+                    <div class="flip-box-inner">
+                      <div class="flip-box-front">
+                        <img src="Images/mesozoic_taxa/Electrobisium_acutum/Holotype_cropped.JPG" alt="Electrobisium" width="400" height="323">
+                      </div>
+                      <div class="flip-box-back">
+                        <h2>Electrobisium acutum (Cockerell, 1917)</h2><hr style="margin-top:-.5rem;
+                        margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                        <p>Amber: Burmese</p>
+                      </div>
+                    </div>
+                  </div>
+          </div>
+          <div class="row justify-content-center"> 
+            <div class="row justify-content-center"> 
+              <div id="images" style="display: flex;">
+                <div class="flip-box">
+                  <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                      <img src="Images/mesozoic_taxa/Heurtaultia_rossiorum/holotype_image_nocaption_cropped.jpg" alt="Heurtaultia rossiorum" width="400" height="323">
+                    </div>
+                    <div class="flip-box-back">
+                      <h2>Heurtaultia rossiorum (Judson, 2009)</h2><hr style="margin-top:-.5rem;
+                      margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                      <p>Amber: Archingeay</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-box">
+                  <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                      <img src="Images/mesozoic_taxa/Procheiridium_judsoni/720px-Procheiridium_judsoni_holotype_Fig1_D.png" alt="Procheiridium judsoni" width="400" height="323">
+                    </div>
+                    <div class="flip-box-back">
+                      <h2>Procheiridium judsoni (Porta et al. 2020)</h2><hr style="margin-top:-.5rem;
+                      margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                      <p>Family: </p>
+                      <p>Amber: Burmese</p>
+                      <p>Rel. date: Cenomanian</p>
+                      <p>Abs. Date: 99 mya</p>
+                    </div>
+                  </div>
+                </div></div>
+                <div style="display: flex;">
+                  <div class="flip-box">
+                    <div class="flip-box-inner">
+                      <div class="flip-box-front">
+                        <img src="Images/mesozoic_taxa/Weygoldtiella_plausus/Images-of-the-female-holotype-of-Weygoldtiella-plausus-gen-et-sp-nov-A-Dorsal-view_W640_cropped.jpg"  alt="Weygoldtiella plausus" width="400" height="323">
+                      </div>
+                      <div class="flip-box-back">
+                        <h2>Weygoldtiella plausus (Harvey et al. 2018) </h2><hr style="margin-top:-.5rem;
+                        margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                        <p>Amber: Description of the Cheliferidae fossil: text text text</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="flip-box">
+                    <div class="flip-box-inner">
+                      <div class="flip-box-front">
+                        <img src="Images/mesozoic_taxa/Undescribed_Chernetidae(possibly)_cropped.JPG" alt="Undescribed_Chernetidae(possibly)" width="400" height="323">
+                      </div>
+                      <div class="flip-box-back">
+                        <h2>Chernetidae (Undescribed)</h2><hr style="margin-top:-.5rem;
+                        margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                        <p>Mentioned by Schawaller, 1991</p>
+                        <p>Amber: Canadian</p>
+                      </div>
+                    </div>
+                  </div></div>
+                  </div>
+
+                  <div class="row justify-content-center"> 
+                    <div class="row justify-content-center"> 
+                      <div id="images" style="display: flex;">
+                        <div class="flip-box">
+                          <div class="flip-box-inner">
+                            <div class="flip-box-front">
+                              <img src="Images/mesozoic_taxa/Undescribed_Withiidae(possibly).JPG" alt="Undescribed Withiidae(possibly)" width="400" height="323">
+                            </div>
+                            <div class="flip-box-back">
+                              <h2>Withiidae (Undescribed)</h2><hr style="margin-top:-.5rem;
+                              margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
+                              <p>Mentioned by...</p>
+                              <p>Amber: </p>
+                            </div>
+                          </div>
+                        </div>
+                  
+                  <br><br>
+        </div>
+          </div></div></div></div>
+        </div>
+       <script type="text/javascript" src="static/js/config.js"></script>
+        <script type="text/javascript" src="static/js/logic.js"></script> 
+        <script type="text/javascript" src="static/js/map.js"></script>
+        <!-- <script src="{{ url_for('static', filename='static/js/config.js') }}"></script>
+        <script src="{{ url_for('static', filename='static/js/map.js') }}"></script> -->
+    </body>
+</html>

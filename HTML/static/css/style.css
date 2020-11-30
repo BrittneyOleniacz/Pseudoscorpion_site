@@ -57,7 +57,7 @@ ol {
 
 #map {
   height: 800px;
-  width: 1750px
+  width: 1750px;
 }
 
 #topBtn {
@@ -342,7 +342,7 @@ navbar-nav-m {
 
 .flip-box {
   background-color: transparent;
-  width: 406px;
+  width: 401px;
   height: 328px;
   border: 2px solid white;
   /* perspective: 1000px; */
@@ -350,7 +350,7 @@ navbar-nav-m {
 
 .flip-box-inner {
   position: relative;
-  width: 407;
+  width: 401px;
   height: 328px;
   text-align: center;
   transition: transform 0.8s;

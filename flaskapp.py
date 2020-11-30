@@ -42,8 +42,8 @@ def home():
 
 @app.route("/loc_data")
 def scrape():
-    cur = conn.cursor(cursor_factory=RealDictCursor)
-    cur.execute("""   SELECT * loc_data """)
+    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+    cur.execute("SELECT * loc_data")
     return json.dumps(cur.fetchall())
 
 if __name__ =="__main__":

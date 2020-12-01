@@ -352,7 +352,7 @@ navbar-nav-m {
   position: relative;
   width: 401px;
   height: 328px;
-  text-align: center;
+  text-align: left;
   transition: transform 0.8s;
   transform-style: preserve-3d;
   /* border-bottom: 1px solid white;
@@ -382,6 +382,9 @@ navbar-nav-m {
   background-color: #555;
   /* background-color: #42321bbf; */
   color: white;
+  font-weight: 100;
+  /* text-align: left; */
+  padding-left: 10px;
   transform: rotateY(180deg);
   border: 2px solid white;
 }

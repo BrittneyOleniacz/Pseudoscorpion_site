@@ -53,7 +53,7 @@
 <!-------NAVIGATION BAR CODE------->
 <!--------------------------------->
 <body>
-  <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+  <button onclick="topFunction()" id="topBtn" title="Go to top"><img src="Images/arrow-up-512.png" width="50"><br>Scroll to Top</button>
 
   <nav class="navbar navbar-expand-lg navbar-light navbar-bg2">
     <div class="navbar-bg"><a class="navbar-brand" href="index.html">Fossil Pseudoscorpions</a></div>
@@ -114,14 +114,14 @@
           </div>
             <div class="row justify-content-center"> 
               <br><br><br>
-              <div id="images" style="display: flex;">
+              <div id="images" class="flip-image">
                 <div class="flip-box">
                   <div class="flip-box-inner">
                     <div class="flip-box-front">
-                      <img src="Images/mesozoic_taxa/Alava_1.JPG" alt="Alava" width="400">
+                      <img src="Images/mesozoic_taxa/Alava_1.JPG" alt="Alava" width="400" height="323">
                     </div>
                     <div class="flip-box-back">
-                      <h2>Undescribed</div>h2><hr style="margin-top:-.5rem;
+                      <h2>Undescribed</h2><hr style="margin-top:-.5rem;
                       margin-bottom: 1rem;border: 0;border-top: 1px solid white;width:95%;">
                       <p>Mentioned by Delclos et al. 2007. </p>
                       <p>Amber: Alava</p>
@@ -140,7 +140,7 @@
                     </div>
                   </div>
                 </div></div>
-                <div style="display: flex;">
+                <div class="flip-image">
                   <div class="flip-box">
                     <div class="flip-box-inner">
                       <div class="flip-box-front">
@@ -166,10 +166,10 @@
                       </div>
                     </div>
                   </div>
-          </div>
-          <div class="row justify-content-center"> 
+          </div></div>
+
             <div class="row justify-content-center"> 
-              <div id="images" style="display: flex;">
+              <div id="images" class="flip-image">
                 <div class="flip-box">
                   <div class="flip-box-inner">
                     <div class="flip-box-front">
@@ -197,7 +197,8 @@
                     </div>
                   </div>
                 </div></div>
-                <div style="display: flex;">
+                
+                <div class="flip-image">
                   <div class="flip-box">
                     <div class="flip-box-inner">
                       <div class="flip-box-front">
@@ -225,9 +226,8 @@
                   </div></div>
                   </div>
 
-                  <div class="row justify-content-center"> 
                     <div class="row justify-content-center"> 
-                      <div id="images" style="display: flex;">
+                      <div id="images" class="flip-image">
                         <div class="flip-box">
                           <div class="flip-box-inner">
                             <div class="flip-box-front">
@@ -246,10 +246,8 @@
         </div>
           </div></div></div></div>
         </div>
-       <script type="text/javascript" src="static/js/config.js"></script>
-        <script type="text/javascript" src="static/js/logic.js"></script> 
+        <script type="text/javascript" src="static/js/config.js"></script>
+        <script type="text/javascript" src="static/js/logic.js"></script>
         <script type="text/javascript" src="static/js/map.js"></script>
-        <!-- <script src="{{ url_for('static', filename='static/js/config.js') }}"></script>
-        <script src="{{ url_for('static', filename='static/js/map.js') }}"></script> -->
     </body>
 </html>

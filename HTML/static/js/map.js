@@ -4,11 +4,7 @@ var myMap = L.map("map", {
     zoom: 3
 });
 
-<<<<<<< HEAD
-//Adding tile layer
-=======
 // Adding tile layer
->>>>>>> 5687c4d15fe4e1082afed1ed60ad41ae17631128
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
     tileSize: 512,

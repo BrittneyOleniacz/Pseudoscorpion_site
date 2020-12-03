@@ -39,6 +39,22 @@ conn = psycopg2.connect(
 def home():
     return render_template("present.html")
 
+@app.route("/past.html")
+def past():
+    return render_template("past.html")
+
+@app.route("/future.html")
+def future():
+    return render_template("future.html")
+
+@app.route("/contact.html")
+def contact():
+    return render_template("contact.html")
+
+@app.route("/works_cited.html")
+def workscited():
+    return render_template("works_cited.html")
+
 
 @app.route("/loc_data")
 def scrape():

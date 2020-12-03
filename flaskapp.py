@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import json
 import psycopg2
+import csv
 
 app = Flask(__name__)
 
@@ -35,6 +36,10 @@ conn = psycopg2.connect(
 #     cur.execute("""   SELECT * FROM WSC_fossils """)
 #     return json.dumps(cur.fetchall())
 
+@app.route("/index.html")
+def index():
+    return render_template("index.html")
+
 @app.route("/")
 def home():
     return render_template("present.html")
@@ -54,7 +59,6 @@ def contact():
 @app.route("/works_cited.html")
 def workscited():
     return render_template("works_cited.html")
-
 
 @app.route("/loc_data")
 def scrape():

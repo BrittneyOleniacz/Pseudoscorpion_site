@@ -23,7 +23,7 @@ function topFunction() {
  // APA style works cited //
 // --------------------- //
 
-d3.csv("oneauthor_references.csv").then(function(citedData) {
+d3.csv("C:/Users/Adrian/Desktop/Git/Project-2/templates/oneauthor_references.csv").then(function(citedData) {
   console.log(citedData)
 
   citedData.forEach(function(data) {
@@ -37,7 +37,7 @@ d3.csv("oneauthor_references.csv").then(function(citedData) {
   // console.log(citedData.reftitle)
   var cited = d3.select("#works_cited")
 
-  cited.selectAll("ol")
+  data.selectAll("ol")
     .data(citedData)
     .enter()
     .append("ol")

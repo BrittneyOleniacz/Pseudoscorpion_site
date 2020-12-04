@@ -337,6 +337,10 @@ navbar-nav-m {
   box-shadow: -2px 3px 5px #00000052;
 }
 
+.nav-icon {
+  width: 10px;
+}
+
 /* CODING FOR IMAGE FLIP */
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_image2 */
 

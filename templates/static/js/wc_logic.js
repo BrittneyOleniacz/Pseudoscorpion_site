@@ -19,45 +19,7 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
-  // --------------------- //
- // APA style works cited //
-// --------------------- //
 
-d3.csv("C:/Users/Adrian/Desktop/Git/Project-2/templates/oneauthor_references.csv").then(function(citedData) {
-  console.log(citedData)
-
-  citedData.forEach(function(data) {
-    // data.author1first = data.author1first;
-    data.author1last = data.author1last;
-    data.pubyr = +data.pubyr;
-    data.reftitle = data.reftitle.toString();
-    data.pubtitle = data.pubtitle;
-  });
-
-  // console.log(citedData.reftitle)
-  var cited = d3.select("#works_cited")
-
-  data.selectAll("ol")
-    .data(citedData)
-    .enter()
-    .append("ol")
-    // .text(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `${d.reftitle}, ${d.pubtitle}, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
-    .html(d => `${d.author1last}` + " " + `${d.pubyr},` + " " + `'${d.reftitle}', ` + "<i>" + `${d.pubtitle}` + "</i>" + `, vol. ${d.pubvol}, no. ${d.pubno},` + " " +`pp. ${d.firstpage}-${d.lastpage}`)
-
-
-  $(citedData).ready( function () {
-    $('#cited_table').DataTable();
-  } );
-
-
-
-  
-})
-
-
-
-
-
-// $("oneauthor_references.csv").ready( function () {
-//   $('#cited_table').DataTable();
-// } );
+$(document).ready( function () {
+  $('#cited_table').DataTable();
+} );

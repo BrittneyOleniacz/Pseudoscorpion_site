@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import json
 import psycopg2
+import psycopg2.extras
 import csv
 
 app = Flask(__name__)

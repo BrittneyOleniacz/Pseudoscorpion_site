@@ -44,6 +44,10 @@ def index():
 def home():
     return render_template("present.html")
 
+@app.route("/present.html")
+def past():
+    return render_template("present.html")
+
 @app.route("/past.html")
 def past():
     return render_template("past.html")

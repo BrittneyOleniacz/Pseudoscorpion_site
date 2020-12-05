@@ -41,7 +41,7 @@ def index():
 
 @app.route("/")
 def home():
-    return render_template("present.html")
+    return render_template("index.html")
 
 @app.route("/past.html")
 def past():

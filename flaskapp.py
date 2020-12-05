@@ -46,7 +46,7 @@ def home():
     return render_template("present.html")
 
 @app.route("/present.html")
-def past():
+def present():
     return render_template("present.html")
 
 @app.route("/past.html")

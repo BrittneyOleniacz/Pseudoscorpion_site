@@ -1,9 +1,7 @@
 //Make map to put into HTML using the ID//
 var myMap = L.map("map").setView([38.7223, 9.1393], 3);
 var ps_icon =  L.icon({
-    iconUrl: '../static/images/ps_icon.png',
-    iconSize: [30, 35],
-    iconAnchor: [10, 10]
+    iconUrl: '../static/images/ps_icon.png'
 });
 
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -18,9 +16,9 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 d3.json("/loc_data").then(data => {
     console.log(data);
         data.forEach( info => {
-        lat = info.Lat_dec;
-        long = info.Long_dec;
+        lat = info.lat_dec.toFixed(5);;
+        long = info.long_dec.toFixed(5);;
         marker = L.marker([lat, long], { icon: ps_icon }).addTo(myMap);
-        marker.bindPopup(`<h4>${info.Amber}</h4><h5>${info.TypeLocality}</h5>`);
+        marker.bindPopup(`<h4>${info.amber}</h4><h5>${info.TypeLocality}</h5>`);
     });
 });

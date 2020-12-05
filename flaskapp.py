@@ -54,6 +54,10 @@ def future():
 def contact():
     return render_template("contact.html")
 
+@app.route("/present.html")
+def present():
+    return render_template("present.html")
+
 @app.route("/works_cited.html")
 def workscited():
     return render_template("works_cited.html")

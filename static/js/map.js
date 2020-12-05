@@ -1,9 +1,14 @@
+//Make map to put into HTML using the ID//
+var myMap = L.map("map").setView([38.7223, 9.1393], 3);
 
-var myMap = L.map("map", {
-    center: [38.7223, 9.1393],
-    zoom: 3
+//Create Icon//
+var mining =  L.icon({
+    iconUrl: '../static/images/mining.png'
+    iconSize: [20, 20],
+    iconAnchor: [10, 10]
 });
 
+//Get the map for myMap//
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
     tileSize: 512,
@@ -12,12 +17,19 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     id: "mapbox/streets-v11",
     accessToken: API_KEY
 }).addTo(myMap);
-console.log("Hello")
 
-var coords = "/loc_data"
-
-console.log("yay")
-
+// //Get data//
+// var place = d3.json("/loc_data").then((data) => {
+//     console.log(data);
+// });
+      
+// //place markers and set popup//
+// data.forEach(place => {
+//     lat = place[2];;
+//     long = place[3];;
+//     marker = L.marker([lat, long], { icon: mining }).addTo(myMap);
+//     marker.bindPopup(<h3>${place[1]}</h3><h4>${place[2]}</h4>);
+// });
 
 
 // // Define variables for our tile layers
@@ -40,7 +52,3 @@ console.log("yay")
 //   Light: light,
 //   Dark: dark
 // };
-
-d3.json(coords, function(data){
-    console.log("hello")
-})

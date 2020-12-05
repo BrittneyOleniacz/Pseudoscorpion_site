@@ -9,7 +9,7 @@ var myMap = L.map("map", {
 });
 
 var ps_icon =  L.icon({
-    iconUrl: '../static/images/ps_icon.png',
+    iconUrl: 'images/ps_icon.png',
     iconSize: [25, 30],
     iconAnchor: [12.5, 15]
 });
@@ -23,13 +23,13 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     accessToken: API_KEY
 }).addTo(myMap)
 
-d3.json("loc_data.csv").then(data => {
+d3.csv("loc_data.csv").then(data => {
     console.log(data);
         data.forEach( info => {
-        lat = info.lat_dec.toFixed(5);;
-        long = info.long_dec.toFixed(5);;
+        lat = info.Lat_dec;
+        long = info.Lon_dec;
         marker = L.marker([lat, long], { icon: ps_icon }).addTo(myMap);
-        marker.bindPopup(`<h4>${info.amber}</h4><h5>${info.TypeLocality}</h5>`);
+        marker.bindPopup(`<h4>${info.Amber}</h4><h5>${info.TypeLocality}</h5>`);
     });
 });
 

@@ -5,32 +5,30 @@ import psycopg2.extras
 import csv
 
 app = Flask(__name__)
-
 conn = psycopg2.connect(
     host="localhost",
     database="Project2",
     user="postgres",
     password="postgres")
 
-
 # @app.route("/Dating_data")
 # def scrape():
 #     cur = conn.cursor(cursor_factory=RealDictCursor)
 #     cur.execute("""   SELECT * FROM Dating_data """)
 #     return json.dumps(cur.fetchall())
-
-# @app.route("/PBDB_Review")
+#
+#  @app.route("/PBDB_Review")
 # def scrape():
 #     cur = conn.cursor(cursor_factory=RealDictCursor)
 #     cur.execute("""   SELECT * FROM PBDB_Review """)
 #     return json.dumps(cur.fetchall())
-
+# 
 # @app.route("/works_cited")
 # def scrape():
 #     cur = conn.cursor(cursor_factory=RealDictCursor)
 #     cur.execute("""   SELECT * FROM works_cited """)
 #     return json.dumps(cur.fetchall())
-
+# 
 # @app.route("/WSC_fossils")
 # def scrape():
 #     cur = conn.cursor(cursor_factory=RealDictCursor)
@@ -45,10 +43,6 @@ def index():
 def home():
     return render_template("present.html")
 
-@app.route("/present.html")
-def present():
-    return render_template("present.html")
-
 @app.route("/past.html")
 def past():
     return render_template("past.html")
@@ -56,7 +50,6 @@ def past():
 @app.route("/future.html")
 def future():
     return render_template("future.html")
-
 @app.route("/contact.html")
 def contact():
     return render_template("contact.html")
@@ -67,7 +60,7 @@ def workscited():
 
 @app.route("/loc_data")
 def scrape():
-    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+    cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
     cur.execute("SELECT * from loc_data")
     return json.dumps(cur.fetchall())
 

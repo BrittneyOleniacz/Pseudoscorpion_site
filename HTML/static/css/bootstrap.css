@@ -10293,7 +10293,7 @@ a.text-dark:hover, a.text-dark:focus {
   box-shadow: -2px 2px 7px #00000087;
   position: fixed;
   width: 100%;
-  z-index: 1000;
+  z-index: 10000;
 }
 
 .navbar.bg-light {

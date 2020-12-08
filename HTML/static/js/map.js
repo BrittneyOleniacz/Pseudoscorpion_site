@@ -9,7 +9,7 @@ var myMap = L.map("map", {
 });
 
 var ps_icon =  L.icon({
-    iconUrl: 'ps_icon.png',
+    iconUrl: 'https://raw.githubusercontent.com/BrittneyOleniacz/Project-2/main/HTML/static/js/ps_icon.png',
     iconSize: [25, 30],
     iconAnchor: [12.5, 15]
 });

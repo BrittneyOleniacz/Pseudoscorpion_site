@@ -9,7 +9,7 @@ var myMap = L.map("map", {
 });
 
 var ps_icon =  L.icon({
-    iconUrl: 'images/ps_icon.png',
+    iconUrl: 'ps_icon.png',
     iconSize: [25, 30],
     iconAnchor: [12.5, 15]
 });
